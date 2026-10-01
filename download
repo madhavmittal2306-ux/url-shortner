@@ -1,0 +1,4 @@
+urls.json
+links.csv
+__pycache__/
+*.pyc
